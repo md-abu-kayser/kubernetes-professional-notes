@@ -1,0 +1,23 @@
+{
+  "name": "kubernetes-professional-notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/md-abu-kayser/kubernetes-professional-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/md-abu-kayser/kubernetes-professional-notes/issues"
+  },
+  "homepage": "https://github.com/md-abu-kayser/kubernetes-professional-notes#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
